@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisualStudio\\Ecom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VisualStudio\\Ecom\\Ecom\\Migrations\\20250515035010_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecom\\Migrations\\20250515035010_FirstMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\ecom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\ecom.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|d:\\visualstudio\\ecom\\ecom\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0320A9CE-8742-47C1-85A6-0B33E46E00C2}|Ecom\\Ecom.csproj|solutionrelative:ecom\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250515035010_FirstMigration.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Migrations\\20250515035010_FirstMigration.cs",
+              "RelativeDocumentMoniker": "Ecom\\Migrations\\20250515035010_FirstMigration.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Migrations\\20250515035010_FirstMigration.cs",
+              "RelativeToolTip": "Ecom\\Migrations\\20250515035010_FirstMigration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:50:11.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-15T03:37:31.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Ecom\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Ecom\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:29:56.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Program.cs",
+              "RelativeDocumentMoniker": "Ecom\\Program.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Program.cs",
+              "RelativeToolTip": "Ecom\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:20:58.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecom\\appsettings.json",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\appsettings.json",
+              "RelativeToolTip": "Ecom\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T03:20:06.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "Ecom\\Repository\\DataContext.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Repository\\DataContext.cs",
+              "RelativeToolTip": "Ecom\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T03:00:04.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Ecom",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Ecom.csproj",
+              "RelativeDocumentMoniker": "Ecom\\Ecom.csproj",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Ecom.csproj",
+              "RelativeToolTip": "Ecom\\Ecom.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T02:58:54.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALwAAAAAAAAAAAAIwH0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T14:48:49.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:06:18.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Ecom\\Models\\ProductModel.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Ecom\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:50:54.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryModel.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\CategoryModel.cs",
+              "RelativeDocumentMoniker": "Ecom\\Models\\CategoryModel.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\CategoryModel.cs",
+              "RelativeToolTip": "Ecom\\Models\\CategoryModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:50:14.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Ecom\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Ecom\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T15:23:04.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:14:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandModel.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\BrandModel.cs",
+              "RelativeDocumentMoniker": "Ecom\\Models\\BrandModel.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Models\\BrandModel.cs",
+              "RelativeToolTip": "Ecom\\Models\\BrandModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:51:14.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:10:50.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Ecom\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Ecom\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:48:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Ecom\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Ecom\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:47:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Ecom\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Ecom\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:49:09.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Ecom\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Ecom\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T07:49:31.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\CheckOut\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\CheckOut\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\CheckOut\\Index.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\CheckOut\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:15:56.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T08:16:04.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T07:52:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "Ecom\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "D:\\VisualStudio\\Ecom\\Ecom\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "Ecom\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T15:19:12.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
