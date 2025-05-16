@@ -12,5 +12,6 @@ namespace Ecom.Repository
         public DbSet<BrandModel> Brands { get; set; }
         public DbSet<CategoryModel> Categories { get; set; }
         public DbSet<ProductModel> Products { get; set; }
+        public object ProductModel { get; internal set; }
     }
 }

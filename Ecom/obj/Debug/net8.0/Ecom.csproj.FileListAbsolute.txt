@@ -170,3 +170,4 @@ D:\VisualStudio\Ecom\Ecom\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Securi
 D:\VisualStudio\Ecom\Ecom\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\VisualStudio\Ecom\Ecom\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\VisualStudio\Ecom\Ecom\obj\Debug\net8.0\Ecom.csproj.Up2Date
+D:\VisualStudio\Ecom\Ecom\obj\Debug\net8.0\Ecom.sourcelink.json
